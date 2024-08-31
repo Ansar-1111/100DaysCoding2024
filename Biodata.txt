@@ -1,0 +1,4 @@
+nama : Ansar
+nim : D0224317
+kelas : informatika B
+angkatan: 2024
